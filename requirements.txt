@@ -4,4 +4,4 @@ pypiwin32==223
 PyQt5==5.15.0
 PyQt5-sip==12.8.0
 pyttsx3==2.90
-pywin32==228
+pywin32==301
