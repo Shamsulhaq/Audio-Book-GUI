@@ -1,5 +1,5 @@
 comtypes==1.1.7
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pypiwin32==223
 PyQt5==5.15.0
 PyQt5-sip==12.8.0
